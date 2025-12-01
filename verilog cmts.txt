@@ -1,4 +1,0 @@
-1st-- we have run the path file (cd c:)
-2nd-- add this command  iverilog -o encoder_tb.vvp encoder.v encoder_tb.v
-3rd--add this command  vvp encoder_tb.vvp
-4th--add this command gtkwave wave.vcd
